@@ -1,8 +1,12 @@
-<h1 align="center">Hola, soy Lorenzo Carbonell 👋</h1>
+<h1 align="center">atareao</h1>
 
 <p align="center">
-  <b>I build applications and services for Linux.</b><br>
+  <b>Lorenzo Carbonell</b> · I build applications and services for Linux.<br>
   Aplicaciones de escritorio, herramientas de línea de comandos e infraestructura auto-hospedada.
+</p>
+
+<p align="center">
+  <i>atareao es el nombre con el que me encuentras en el blog, YouTube, Telegram y Mastodon.</i>
 </p>
 
 <p align="center">
