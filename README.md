@@ -1,7 +1,7 @@
-<h1 align="center">atareao</h1>
+<h1 align="center">Lorenzo Carbonell (atareao)</h1>
 
 <p align="center">
-  <b>Lorenzo Carbonell</b> · I build applications and services for Linux.<br>
+  I build applications and services for Linux.<br>
   Aplicaciones de escritorio, herramientas de línea de comandos e infraestructura auto-hospedada.
 </p>
 
